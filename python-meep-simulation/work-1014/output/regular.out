@@ -1,0 +1,39 @@
+-----------
+Initializing structure...
+time for choose_chunkdivision = 0.00018096 s
+Working in 2D dimensions.
+Computational cell is 210 x 12.5 x 0 with resolution 10
+     block, center = (0,0,0)
+          size (1e+20,1e+20,1e+20)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (2.25,2.25,2.25)
+     block, center = (0,0.75,0)
+          size (210,1,0)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (4,4,4)
+     block, center = (0,-0.75,0)
+          size (210,1,0)
+          axes (1,0,0), (0,1,0), (0,0,1)
+          dielectric constant epsilon diagonal = (4,4,4)
+time for set_epsilon = 0.45018 s
+-----------
+creating output file "./regular-eps-000000.00.h5"...
+creating output file "./regular-ey.h5"...
+creating output file "./regular-dpwr.h5"...
+creating output file "./regular-dpwr-pt-1.h5"...
+creating output file "./regular-dpwr-pt-3.h5"...
+creating output file "./regular-dpwr-vol-1.h5"...
+creating output file "./regular-dpwr-vol-3.h5"...
+Meep progress: 113.75/700.0 = 16.2% done in 4.0s, 20.6s to go
+on time step 2290 (time=114.5), 0.0017472 s/step
+Meep progress: 221.05/700.0 = 31.6% done in 8.0s, 17.3s to go
+on time step 4434 (time=221.7), 0.00186663 s/step
+Meep progress: 349.85/700.0 = 50.0% done in 12.0s, 12.0s to go
+on time step 7000 (time=350), 0.00158058 s/step
+Meep progress: 478.25/700.0 = 68.3% done in 16.0s, 7.4s to go
+on time step 9600 (time=480), 0.00155535 s/step
+Meep progress: 606.65/700.0 = 86.7% done in 20.0s, 3.1s to go
+on time step 12200 (time=610), 0.00155126 s/step
+run 0 finished at t = 700.0 (14000 timesteps)
+
+Elapsed run time = 23.5293 s
